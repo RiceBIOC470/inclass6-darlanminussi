@@ -1,0 +1,16 @@
+function students_data = students_info(name, age, grade)
+
+
+for i = 1:numel(name)
+    names_input(i) = name(i);
+end
+
+for j = 1:numel(age)
+    age_input(i) = age(i);
+end
+
+for z = 1:numel(grade)
+    grade_input(i) = grade(i);
+end
+
+students_data = struct
