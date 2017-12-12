@@ -1,4 +1,8 @@
 %Inclass asssignment 6. 
+1 100
+2 100
+2b 100
+overall 100
 
 %1. a. Write a function which takes as inputs: a. a cell array of names. b.
 % an array of numbers with the ages corresponding to the names, and c. a binary
